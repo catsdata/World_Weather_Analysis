@@ -6,7 +6,7 @@
 1. [Overview](https://github.com/catsdata/World_Weather_Analysis#overview)
 2. [Resources](https://github.com/catsdata/World_Weather_Analysis#resources)
 3. [Results](https://github.com/catsdata/World_Weather_Analysis#results)
-4. [Summary](https://github.com/catsdata/World_Weather__Analysis#summary)
+4. [Summary](https://github.com/catsdata/World_Weather_Analysis#summary)
 
 </p>
 </details>
