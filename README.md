@@ -16,12 +16,14 @@
 
 ## Resources
 
-- Data Sources: [name](URL) & [name](URL)
+- Data Sources: [worldcities.csv](https://github.com/catsdata/World_Weather_Analysis/blob/main/worldcities.csv), [Google APIs](https://console.developers.google.com/), [Open Weather APIs](http://api.openweathermap.org)
 - Software: 
     - Jupyter Notebook 6.4.6
     - Python 3.7.11 with dependencies: 
-        - Pandas 1.3.5
+        - pandas 1.3.5
+        - numpy 1.20.3
         - MatPlotLib 3.5.0
+        - citipy 0.0.5
     - Anaconda Command line Client 1.9.0
     - Conda 4.11.0
 
